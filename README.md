@@ -1,11 +1,9 @@
-Nonlinear Analysis of Time-series for Inertial Sensor-based Data
+Nonlinear Analysis of Time-series for Inertial Sensor-based Data [Slides](/pdf/presentation-nts2020-mx.pdf)
 ---
-> Miguel Xochicale
-> 20 January 2020
-> [Slides](/pdf/presentation-nts2020.pdf)
+> Miguel Xochicale  
+> 20 January 2020  
 
 ![slides](/pdf/gif-slides/slides.gif)
-
 
 
 # Contact 
